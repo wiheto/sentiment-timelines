@@ -7,4 +7,5 @@
 5,CL,CL_02_Hoffenheim.csv,2,Hoffenheim,win
 6,CL,CL_03_Sevilla.csv,3,Sevilla,draw
 7,League,League_05_Burnley.csv,5,Burnley,draw
-8,Cup,LeagueCup_01_Leicester.csv,5,Leicester,loss
+8,Cup,LeagueCup_01_Leicester.csv,1,Leicester,loss
+9,League,League_06_Leicester.csv,6,Leicester,win
